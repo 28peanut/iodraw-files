@@ -41,7 +41,7 @@
         <mxCell id="GKDTK9nehH1UVLw15qb4-10" value="更新滤波器权重" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="265" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GKDTK9nehH1UVLw15qb4-11" value="input" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="GKDTK9nehH1UVLw15qb4-11" value="input_aux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="175" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GKDTK9nehH1UVLw15qb4-12" value="aux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
