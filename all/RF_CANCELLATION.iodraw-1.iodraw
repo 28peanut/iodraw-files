@@ -60,7 +60,7 @@
           <mxGeometry x="515" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GKDTK9nehH1UVLw15qb4-20" value="更新滤波器权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="265" width="105" height="30" as="geometry" />
+          <mxGeometry x="352.5" y="260" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
