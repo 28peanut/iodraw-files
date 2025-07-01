@@ -99,7 +99,7 @@
           <mxGeometry x="650" y="435" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-29" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.lowpass_filter;" parent="1" vertex="1">
-          <mxGeometry x="779" y="438.5" width="110" height="73" as="geometry" />
+          <mxGeometry x="855" y="320" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-30" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.lowpass_filter;" parent="1" vertex="1">
           <mxGeometry x="779" y="200" width="110" height="73" as="geometry" />
