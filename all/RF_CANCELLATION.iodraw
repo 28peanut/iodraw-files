@@ -191,8 +191,8 @@
             <mxPoint x="919" y="474.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_8RSvHT6ca6G3XlwuMwp-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="950" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="_8RSvHT6ca6G3XlwuMwp-3" value="Anti-Alias Filter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="944" y="410" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
