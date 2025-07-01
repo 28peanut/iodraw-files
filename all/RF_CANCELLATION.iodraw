@@ -182,7 +182,7 @@
         <mxCell id="3-vstI6ET0VI4tL4Gt_--1" value="5dBm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_8RSvHT6ca6G3XlwuMwp-1" value="IF Amplifier" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_8RSvHT6ca6G3XlwuMwp-1" value="RF Attenuator" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="779" y="435" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_8RSvHT6ca6G3XlwuMwp-2" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" edge="1" parent="1">
