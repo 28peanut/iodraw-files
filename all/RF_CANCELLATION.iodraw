@@ -197,8 +197,8 @@
         <mxCell id="_8RSvHT6ca6G3XlwuMwp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="405" width="535" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="_8RSvHT6ca6G3XlwuMwp-6" value="Total&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="515" width="60" height="30" as="geometry" />
+        <mxCell id="_8RSvHT6ca6G3XlwuMwp-6" value="Total IIP3≥30dBm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="515" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
