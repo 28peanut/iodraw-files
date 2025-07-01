@@ -194,6 +194,9 @@
         <mxCell id="_8RSvHT6ca6G3XlwuMwp-6" value="Total IIP3≥30dBm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="515" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_8RSvHT6ca6G3XlwuMwp-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="794" y="155" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
