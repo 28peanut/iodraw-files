@@ -137,9 +137,6 @@
         <mxCell id="03rKVMl75-Iy_q4u2efg-60" value="5dBm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="695" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="03rKVMl75-Iy_q4u2efg-61" value="10dB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="635" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-64" value="15dBm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="565" width="60" height="30" as="geometry" />
         </mxCell>
