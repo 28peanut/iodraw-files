@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-11" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="85" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-19" value="" style="group;direction=east;rotation=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="320" y="440" width="150" height="70" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="779" y="438.5" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-30" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.lowpass_filter;" parent="1" vertex="1">
-          <mxGeometry x="874" y="88.5" width="110" height="73" as="geometry" />
+          <mxGeometry x="880" y="88.5" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="03rKVMl75-Iy_q4u2efg-2" target="03rKVMl75-Iy_q4u2efg-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
