@@ -42,7 +42,12 @@
           <mxGeometry x="45" y="65" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03rKVMl75-Iy_q4u2efg-10" target="03rKVMl75-Iy_q4u2efg-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="237" />
+              <mxPoint x="645" y="125" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-10" value="LNA" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="196.5" width="90" height="80" as="geometry" />
@@ -51,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-11" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="85" width="80" height="80" as="geometry" />
+          <mxGeometry x="745" y="85" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-19" value="" style="group;direction=east;rotation=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="320" y="440" width="150" height="70" as="geometry" />
@@ -102,7 +107,7 @@
           <mxGeometry x="779" y="438.5" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-30" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.lowpass_filter;" parent="1" vertex="1">
-          <mxGeometry x="804" y="88.5" width="110" height="73" as="geometry" />
+          <mxGeometry x="874" y="88.5" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="03rKVMl75-Iy_q4u2efg-2" target="03rKVMl75-Iy_q4u2efg-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
