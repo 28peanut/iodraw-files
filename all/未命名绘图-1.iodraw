@@ -241,8 +241,8 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-28" value="I(t)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1010" y="472.5" width="385" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-29" value="I(t)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="477.5" width="385" height="55" as="geometry" />
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-29" value="  Q(t)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="712.5" width="385" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
