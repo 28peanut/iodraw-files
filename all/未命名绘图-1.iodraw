@@ -202,7 +202,7 @@
             <mxPoint x="779.88" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-15" value="I(t)cos(" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
