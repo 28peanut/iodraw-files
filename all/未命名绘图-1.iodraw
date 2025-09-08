@@ -205,7 +205,7 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-16" value="I(t)cos(ωt)+Q(t)sin(ωt)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="120" y="725" width="145" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-17" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;dashed=1;dashPattern=8 8;strokeWidth=10;" vertex="1" parent="1">
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-17" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=0;dashed=1;dashPattern=8 8;strokeWidth=10;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="95" y="310" width="450" height="240" as="geometry" />
         </mxCell>
       </root>
