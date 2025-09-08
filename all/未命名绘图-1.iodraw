@@ -95,7 +95,11 @@
           <mxGeometry x="230" y="283.5" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03rKVMl75-Iy_q4u2efg-27" target="03rKVMl75-Iy_q4u2efg-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="525" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="03rKVMl75-Iy_q4u2efg-27" value="LNA" style="triangle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="579" width="90" height="80" as="geometry" />
