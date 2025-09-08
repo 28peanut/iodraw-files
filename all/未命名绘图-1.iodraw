@@ -238,8 +238,11 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-27" value="I(t)cos(ωt)+Q(t)sin(ωt)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="495" y="680" width="280" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-28" value="cos(φ)I(t+Δt)+sin(φ)Q(t+Δt)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="77.5" width="385" height="55" as="geometry" />
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-28" value="I(t)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="472.5" width="385" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-29" value="I(t)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="477.5" width="385" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
