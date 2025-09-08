@@ -142,7 +142,7 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0gnuFn2J4XYAoSTQ-0S-2" target="Z0gnuFn2J4XYAoSTQ-0S-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z0gnuFn2J4XYAoSTQ-0S-2">
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Z0gnuFn2J4XYAoSTQ-0S-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="645" y="235" as="targetPoint" />
           </mxGeometry>
