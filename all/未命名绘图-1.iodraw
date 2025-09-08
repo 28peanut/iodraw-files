@@ -146,12 +146,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="640" y="218.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="280" />
+              <mxPoint x="640" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="747" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="750" y="263.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.lowpass_filter;" vertex="1" parent="1">
           <mxGeometry x="905" y="272" width="110" height="73" as="geometry" />
