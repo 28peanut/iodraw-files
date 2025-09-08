@@ -195,14 +195,14 @@
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="784" y="145" as="sourcePoint" />
-            <mxPoint x="784" y="185" as="targetPoint" />
+            <mxPoint x="779.12" y="540" as="sourcePoint" />
+            <mxPoint x="779.12" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="784.76" y="265" as="sourcePoint" />
-            <mxPoint x="784.76" y="305" as="targetPoint" />
+            <mxPoint x="779.88" y="660" as="sourcePoint" />
+            <mxPoint x="779.88" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
