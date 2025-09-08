@@ -154,12 +154,18 @@
           <mxGeometry x="740" y="299.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.lowpass_filter;" vertex="1" parent="1">
-          <mxGeometry x="910" y="263.5" width="110" height="73" as="geometry" />
+          <mxGeometry x="900" y="303" width="110" height="73" as="geometry" />
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="779" y="140" as="sourcePoint" />
             <mxPoint x="779" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="784" y="145" as="sourcePoint" />
+            <mxPoint x="784" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
