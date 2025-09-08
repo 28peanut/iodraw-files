@@ -232,7 +232,7 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-25" value="&lt;span style=&quot;font-size: 26px; text-align: left;&quot;&gt;ω&lt;/span&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;Δt=&lt;/span&gt;&lt;span style=&quot;font-size: 26px; text-align: left;&quot;&gt;φ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="220" width="105" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-26" value="aI(t+Δt)+cos(φ)Q(t+Δt)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-26" value="-aI(t+Δt)+bQ(t+Δt)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1010" y="312" width="385" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-27" value="I(t)cos(ωt)+Q(t)sin(ωt)" style="text;whiteSpace=wrap;fontSize=26;" vertex="1" parent="1">
