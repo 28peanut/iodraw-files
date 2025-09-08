@@ -134,12 +134,6 @@
         <mxCell id="03rKVMl75-Iy_q4u2efg-58" value="调制信号" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="195" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="03rKVMl75-Iy_q4u2efg-60" value="5dBm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="260" y="695" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="03rKVMl75-Iy_q4u2efg-66" value="Atteunation:-30dB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="330" width="110" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
