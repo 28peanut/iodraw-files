@@ -205,6 +205,9 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-15" value="I(t)cos(" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="45" y="510" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-16" value="I(t)cos(ωt)+Q(t)sin(ωt)" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="485" width="145" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
