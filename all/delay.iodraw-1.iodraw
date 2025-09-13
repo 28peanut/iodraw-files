@@ -244,6 +244,9 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-29" value="  Q(t)" style="text;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="995" y="710" width="385" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="jxOYeN3CXd-BQ1ZoGqlg-1" value="I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="668" y="58" width="25" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
