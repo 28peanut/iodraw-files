@@ -223,7 +223,7 @@
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 26px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;sin(ωt+θ)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="725" y="225" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-23" value="I(t+Δt)cos(ωt+θ)+Q(t+Δt)sin(ωt+θ)" style="text;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-23" value="I(t+Δt)cos(ωt+φ)+Q(t+Δt)sin(ωt+φ)" style="text;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="70" y="165" width="385" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Z0gnuFn2J4XYAoSTQ-0S-24" value="aI(t+Δt)+bQ(t+Δt)" style="text;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
